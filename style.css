@@ -1,0 +1,13 @@
+form{
+    text-align: center;
+    font-size: 40px;
+}
+input{
+    width: 50%;
+    height: 50px;
+}
+textarea{
+    width: 50%;
+    height: 200px;
+    margin-top: 20px;
+}
